@@ -1,0 +1,5 @@
+localhost
+root
+
+comp220db
+3306
